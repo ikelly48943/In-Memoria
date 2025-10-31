@@ -5,3 +5,4 @@ edition = "2021"
 description = "Persistent Intelligence Infrastructure for AI Agents"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# clarify the control flow
